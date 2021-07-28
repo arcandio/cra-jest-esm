@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import tem from 'tem';
+import {core, util} from 'tem';
+console.log(core);
 
 function App() {
-  tem.core();
-  tem.util();
+  core();
+  util();
   return (
     <div className="App">
       <header className="App-header">

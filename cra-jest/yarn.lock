@@ -10672,7 +10672,6 @@
   "resolved" "file:../tem"
   "version" "1.0.0"
   dependencies:
-    "esm" "^3.2.25"
     "jest" "^27.0.6"
 
 "temp-dir@^1.0.0":
